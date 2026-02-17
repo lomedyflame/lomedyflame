@@ -2,16 +2,20 @@
 <br>
 <img src="https://pixelsafari.neocities.org/stamps/more/nice.png" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/minecraftbee.png" width="100" height="150">
+<img src="https://pixelsafari.neocities.org/stamps/more/summer.png" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/bunny5.png" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/more/flowers.gif" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/more/sun.png" width="100" height="150">
+<img src="https://pixelsafari.neocities.org/stamps/bunny2.gif" width="100" height="150">
+<img src="https://pixelsafari.neocities.org/stamps/livedinminecraft.gif" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/encouragement.png" width="100" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/bunny7.png" width="100" height="150">
 <img src="https://github.com/lomedyflame/lomedyflame/blob/befa9dc0446d6af16f6bf1d1f03e954791d386ce/Untitled440_20260216215813.png" width="103" height="150">
 <img src="https://pixelsafari.neocities.org/stamps/icollectplushies.png" width="100" height="150">
+<img src="https://pixelsafari.neocities.org/stamps/cloud.png"150">
 <br><br>
 <div align="center">
-<a href="https://visitorbadge.io/status?path=lomedyflame"><img src="https://api.visitorbadge.io/api/visitors?path=lomedyflame&label=%E0%A7%BB%F0%9D%84%A2%E2%80%83torchflowers&labelColor=%23412b27&countColor=%23ea992f&style=flat&labelStyle=lower" /></a>
+<a href="https://visitorbadge.io/status?path=lomedyflame"><img src="https://api.visitorbadge.io/api/visitors?path=lomedyflame&label=%E0%A7%BB%F0%9D%84%A2%E2%80%83torchflowers%E2%80%83%20%3A&labelColor=%233c221b&countColor=%23f19121&style=flat&labelStyle=lower" /></a>
 <br><br>
 
 ![image one](https://github.com/lomedyflame/lomedyflame/blob/befa9dc0446d6af16f6bf1d1f03e954791d386ce/Untitled439_20260216184002.png)

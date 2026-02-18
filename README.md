@@ -22,7 +22,7 @@
 <div align="center">
 <details>
 <summary>more about me</summary>
-19 in april! i'm an isfj & have c-ptsd, please be patient when getting to know me. my gender is unlabeled, but i am masc presenting & i'm on the aroace spectrum. i promise i'm super sweet, but i'm in a rough patch so iwc & iayor... prone to being temperamental & accidental venting!
+19 in april! i'm an isfj & have c-ptsd, please be gentle when getting to know me. my gender is unlabeled, but i am masc presenting & i'm on the aroace spectrum. i promise i'm super sweet, but i'm in a rough patch so iayor... prone to being temperamental & accidental venting!
 <br>
 </details>
 <div align="center">
@@ -33,8 +33,8 @@ racist, anti-black, antisemitic, islamophobic, xenophobic, zionist/pro-israel, f
 </details>
 <br>
 
-<a href="">wip</a>ㅤꕤㅤ
-<a href="">ask for my socials!</a>ㅤꕤㅤ
-<a href="">wip</a>
+<a href="https://farmwars.atabook.org/?page=1">atabook</a>ㅤꕤㅤ
+<a href="">ask for other socials!</a>ㅤꕤㅤ
+<a href="https://x.com/webs135">twitter</a>
 
 ![image two](https://github.com/lomedyflame/lomedyflame/blob/befa9dc0446d6af16f6bf1d1f03e954791d386ce/download%20-%202026-02-16T172907.114.png)
